@@ -1,0 +1,19 @@
+/* ACF backend styles */
+.acf-postbox .postbox-header {
+	background: #444 !important;
+	color: #fff !important;
+}
+
+.acf-postbox .postbox-header > h2 {
+	color: #fff !important;
+}
+
+.acf-postbox .postbox-header:hover {
+	background-color: #d3d3d3 !important;
+	color: #444 !important;
+}
+
+
+.acf-postbox .postbox-header > h2:hover {
+	color: #444 !important;
+}
